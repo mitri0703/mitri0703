@@ -9,7 +9,7 @@ Coming Soon
 <b>Project 2 — SOC Alert Triage Simulation</b>
 Coming Soon
 <b>Project 3 — IAM Joiner-Mover-Leaver in Azure</b>
-https://github.com/mitri0703/IAM-Joiners-Movers-Leavers
+<br/><a href="https://github.com/mitri0703/IAM-Joiners-Movers-Leavers">
 <b>Project 4 — SSO & Federation Setup</b>
 Coming Soon
 <b>Project 5 — PAM Capstone</b>
