@@ -11,9 +11,10 @@ Coming Soon
 <b>Project 3 — IAM Joiner-Mover-Leaver in Azure</b>
 
 <b>Project 4 — SSO & Federation Setup</b>
-Coming Soon
+<br/><a href="https://github.com/mitri0703/PAM-Capstone/tree/main">
 <b>Project 5 — PAM Capstone</b>
-Coming Soon
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
