@@ -1,29 +1,58 @@
-## Hi there 👋
+# Hi, I'm D'Mitri Williams 👋
 
-<h1>Hi, I'm D'Mitri Williams! <br/><a href="https://github.com/mitri0703">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/dmitri-d-williams/">IAM & SOC Professional</a></h1>
+### Cybersecurity Professional | IAM & Identity Governance | Microsoft Entra ID
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-<br/><a href="https://github.com/mitri0703/Entra-SAML-SSO/tree/main">
-<b>Project 1 — Entra-SAML-SSO Project</b>
+I'm building hands-on experience in Identity & Access Management, cloud security, and enterprise IAM engineering through real-world lab projects using Microsoft Entra ID, Azure, and industry-standard frameworks.
 
-<b>Project 2 — SOC Alert Triage Simulation</b>
+---
 
-<br/><a href="https://github.com/mitri0703/IAM-Joiners-Movers-Leavers">
-<b>Project 3 — IAM Joiner-Mover-Leaver in Azure</b>
+## 👨‍💻 Cybersecurity Projects
 
+<b>Project 1 — IAM Joiner-Mover-Leaver Lifecycle in Azure</b>
+<br/><a href="https://github.com/mitri0703/IAM-Joiners-Movers-Leavers">github.com/mitri0703/IAM-Joiners-Movers-Leavers</a>
+
+<br/><br/>
+<b>Project 2 — Entra SAML SSO</b>
+<br/><a href="https://github.com/mitri0703/Entra-SAML-SSO/tree/main">github.com/mitri0703/Entra-SAML-SSO</a>
+
+<br/><br/>
+<b>Project 3 — SOC Alert Triage Simulation</b>
+<br/><a href="">github.com/mitri0703/</a>
+
+<br/><br/>
 <b>Project 4 — SSO & Federation Setup</b>
+<br/><a href="">github.com/mitri0703/</a>
 
-<br/><a href="https://github.com/mitri0703/PAM-Capstone/tree/main">
+<br/><br/>
 <b>Project 5 — PAM Capstone</b>
+<br/><a href="https://github.com/mitri0703/PAM-Capstone/tree/main">github.com/mitri0703/PAM-Capstone</a>
 
+---
 
+## 🛠️ Tools & Technologies
 
-<h2> 🤳 Connect with me:</h2>
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![SAML](https://img.shields.io/badge/SAML-SSO-blueviolet?style=flat)
+![RBAC](https://img.shields.io/badge/RBAC-Least%20Privilege-blue?style=flat)
 
-[<img align="left" alt="D'Mitri Williams | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+---
 
-[linkedin]: https://linkedin.com/in/dmitri-d-williams/!--
-**mitri0703/mitri0703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 Focus Areas
 
+- Identity & Access Management (IAM)
+- Role-Based Access Control (RBAC)
+- Privileged Access Management (PAM)
+- SAML / SSO Federation
+- Joiner-Mover-Leaver (JML) Lifecycle
+- Zero Trust & Least Privilege
+- GRC & Compliance Frameworks (SOC 2, ISO 27001, HIPAA)
 
--->
+---
+
+## 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitri-williams)
+
