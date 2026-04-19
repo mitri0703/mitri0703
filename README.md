@@ -21,7 +21,7 @@ I'm building hands-on experience in Identity & Access Management, cloud security
 
 <br/><br/>
 <b>Project 4 — Zero Trust-Access-Design</b>
-<br/><a href="">github.com/mitri0703/</a>
+<br/><a href="https://github.com/mitri0703/Zero-Trust-Access-Design">github.com/mitri0703/Zero-Trust-Access-Design</a> 
 
 <br/><br/>
 <b>Project 5 — PAM Capstone</b>
