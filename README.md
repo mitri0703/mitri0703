@@ -12,15 +12,15 @@ I'm building hands-on experience in Identity & Access Management, cloud security
 <br/><a href="https://github.com/mitri0703/IAM-Joiners-Movers-Leavers">github.com/mitri0703/IAM-Joiners-Movers-Leavers</a>
 
 <br/><br/>
-<b>Project 2 — Entra SAML SSO</b>
+<b>Project 2 — Entra-SAML-SSO</b>
 <br/><a href="https://github.com/mitri0703/Entra-SAML-SSO/tree/main">github.com/mitri0703/Entra-SAML-SSO</a>
 
 <br/><br/>
-<b>Project 3 — SOC Alert Triage Simulation</b>
+<b>Project 3 — Linux-AD-Domain-Lab</b>
 <br/><a href="">github.com/mitri0703/</a>
 
 <br/><br/>
-<b>Project 4 — SSO & Federation Setup</b>
+<b>Project 4 — Zero Trust-Access-Design</b>
 <br/><a href="">github.com/mitri0703/</a>
 
 <br/><br/>
