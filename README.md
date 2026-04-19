@@ -27,6 +27,11 @@ I'm building hands-on experience in Identity & Access Management, cloud security
 <b>Project 5 — PAM Capstone</b>
 <br/><a href="https://github.com/mitri0703/PAM-Capstone/tree/main">github.com/mitri0703/PAM-Capstone</a>
 
+<br/><br/>
+<b>Project 6 - Linux-Setting Up-Web Server</b>
+<br/><a href="https://github.com/mitri0703/Linux-Setting-Up-Web-Server">github.com/mitri0703/Linux-Setting-Up-Web-Server</a>
+
+
 ---
 
 ## 🛠️ Tools & Technologies
