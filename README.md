@@ -31,6 +31,9 @@ I'm building hands-on experience in Identity & Access Management, cloud security
 <b>Project 6 - Linux-Setting Up-Web Server</b>
 <br/><a href="https://github.com/mitri0703/Linux-Setting-Up-Web-Server">github.com/mitri0703/Linux-Setting-Up-Web-Server</a>
 
+<br/><br/>
+<b>Project 7 - Network Exfiltration Analysis</b>
+<br/><a href="https://github.com/mitri0703/network-exfiltration-analysis">github.com/mitri0703/Network Exfiltration Analysis</a>
 
 ---
 
