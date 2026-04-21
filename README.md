@@ -35,6 +35,10 @@ I'm building hands-on experience in Identity & Access Management, cloud security
 <b>Project 7 - Network Exfiltration Analysis</b>
 <br/><a href="https://github.com/mitri0703/network-exfiltration-analysis">github.com/mitri0703/Network Exfiltration Analysis</a>
 
+<br/><br/>
+<b>Project 8 - SOC-Linux-Privilege-Escalation</b>
+<br/><a href="https://github.com/mitri0703/SOC-Linux-Privilege-Escalation">github.com/mitri0703/SOC-Linux-Privilege-Escalation</a>
+
 ---
 
 ## 🛠️ Tools & Technologies
