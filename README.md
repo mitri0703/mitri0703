@@ -43,6 +43,10 @@ I'm building hands-on experience in Identity & Access Management, cloud security
 <b>Project 9 - Splunk-SOC Detection-Multiple Failed Logins</b>
 <br/><a href="https://github.com/mitri0703/Splunk-SOC-Detection-Multiple-Failed-Logins">github.com/mitri0703/Splunk-SOC Detection-Multiple Failed Logins</a>
 
+<br/><br/>
+<b>Project 10 - Enterprise-SSO-RBAC-External-User-Access</b>
+<br/><a href="https://github.com/mitri0703/Enterprise-SSO-RBAC-External-User-Access">github.com/mitri0703/Enterprise-SSO-RBAC-External-User-Access</b>
+
 ---
 
 ## 🛠️ Tools & Technologies
