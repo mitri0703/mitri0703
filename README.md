@@ -39,6 +39,10 @@ I'm building hands-on experience in Identity & Access Management, cloud security
 <b>Project 8 - SOC-Linux-Privilege-Escalation</b>
 <br/><a href="https://github.com/mitri0703/SOC-Linux-Privilege-Escalation">github.com/mitri0703/SOC-Linux-Privilege-Escalation</a>
 
+<br/><br/>
+<b>Project 9 - Splunk-SOC Detection-Multiple Failed Logins</b>
+<br/><a href="https://github.com/mitri0703/Splunk-SOC-Detection-Multiple-Failed-Logins">github.com/mitri0703/Splunk-SOC Detection-Multiple Failed Logins</a>
+
 ---
 
 ## 🛠️ Tools & Technologies
